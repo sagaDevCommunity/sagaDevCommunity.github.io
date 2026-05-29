@@ -1,2 +1,2 @@
 # Welcome! 👋
-We are Quaintly, an open-source based organization.
+We are saga.dev, an open-source based organization.
