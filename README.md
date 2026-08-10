@@ -8,7 +8,7 @@ saga.dev was founded in 2026, to make free, fast, and reliable apps for people.
 
 - MindScript: A Brainfuck-like language that runs on a Turing Machine.
 
-- The Star-7 Virtual Machine: A stack-based virtual machine.
+- Aero - A small JS subset written in Kotlin.
 
 - randNES: A "random" library for NES6502 assembly.
 
