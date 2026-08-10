@@ -11,3 +11,7 @@ saga.dev was founded in 2026, to make free, fast, and reliable apps for people.
 - The Star-7 Virtual Machine: A stack-based virtual machine.
 
 - randNES: A "random" library for NES6502 assembly.
+
+# Our Language Stack
+
+![Org Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagaDevCommunity)
