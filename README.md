@@ -14,5 +14,5 @@ saga.dev was founded in 2026, to make free, fast, and reliable apps for people.
 
 # Our Language Stack
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagaDevCommunity&theme=solarized_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagaDevCommunity)
 
