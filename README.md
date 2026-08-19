@@ -1,5 +1,4 @@
 ---
-title: Saga.dev | Welcome
 head: |
   <meta name="google-site-verification" content="4kX4j1n-JEdbvJ83yDzBgR7OyotGap9Yvnsgw6fwcf4" />
 ---
@@ -19,4 +18,4 @@ saga.dev was founded in 2026, to make free, fast, and reliable apps for people.
 
 # Our Language Stack
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagaDevCommunity)
+![Top Languages](https://vercel.app)
